@@ -3,9 +3,9 @@
 ## Здесь мы сможете найти все необходимые учебные материалы и домашние задания.
 *при возникновении вопросов пишите на* 
 
-*chilova.ks@phystech.edu*
+- *chilova.ks@phystech.edu*
 
-*lindemann.na@phystech.edu*
+- *lindemann.na@phystech.edu*
 
 *а так же [сюда](https://vk.com/linmipt) по вопросам, связанным с матаппаратом*
 
